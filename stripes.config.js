@@ -3,6 +3,7 @@ module.exports = {
   config: { reduxLog: true, disableAuth: true },
   modules: {
     "@folio/users": {},
-    "@folio/trivial": {}
+    "@folio/trivial": {},
+    "@folio-sample-modules/okapi-console": {}
   }
 };
