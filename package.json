@@ -5,9 +5,7 @@
     "start": "stripes dev stripes.config.js"
   },
   "dependencies": {
-    "@folio/stripes-core": "^0.0.8-test",
-    "@folio/users": "^0.0.1-test",
-    "@folio/trivial": "^0.0.2-test",
-    "@folio-sample-modules/okapi-console": "^0.0.1-test"
+    "@folio/stripes-core": "^0.0.12-test",
+    "@folio/users": "^0.0.1-test"
   }
 }
